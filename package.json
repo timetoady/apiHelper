@@ -1,0 +1,20 @@
+{
+  "name": "apihelper",
+  "version": "1.0.0",
+  "description": "NPM pacakge with a set of API helper methods to easily call REST API endpoints without rewriting code over and over.",
+  "main": "apiHelper.js",
+  "scripts": {
+    "test": "jest"
+  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timetoady/apiHelper.git"
+  },
+  "author": "Adam Andreason",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timetoady/apiHelper/issues"
+  },
+  "homepage": "https://github.com/timetoady/apiHelper#readme"
+}
